@@ -10,5 +10,6 @@ This repository can be considered a derivative work, since the goal is to provid
 - new interpretation of the texts
 - POS-tagging
 - syntactic analysis
+- etymological analysis
 
 Niko Partanen has initiated the work, but everybody is invited to collaborate. The work is not directly associated with any project or institution, but the work started in 2014 within Kone Foundation funded Iźva Komi Documentation Project.
