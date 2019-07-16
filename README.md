@@ -12,4 +12,35 @@ This repository can be considered a derivative work, since the goal is to provid
 - syntactic analysis
 - etymological analysis
 
-Niko Partanen has initiated the work, but everybody is invited to collaborate. The work is not directly associated with any project or institution, but the work started in 2014 within Kone Foundation funded Iźva Komi Documentation Project.
+Niko Partanen has initiated the work, but everybody is invited to collaborate. The working model is such that scientifically meaningful contributions built automatically towards the authorship. Logically, out of all possible contributions it should be easy to distinguish the major and minor contributors. Major contribution equals authorship, and all contributions are acknowledged.
+
+The work is not directly associated with any project or institution, but the work started in 2014 within Kone Foundation funded Iźva Komi Documentation Project. To be exact the original digitalization of the texts was carried out in the framework of that project by Niko Partanen as part of testing different tools and workflows. However, this cannot be considered as one of the outcomes of that project, but it is just one sideproduct. All better projects probably have a large number of sideproducts.
+
+## List of texts
+
+### komi1267-1
+
+Nomokanon 1950
+
+### komi1267-2
+
+Troica Icon
+
+### komi1267-3
+
+Inscription in Troica Icon
+
+### komi1267-4
+
+Inscription in Icon **Сошествия св. духа**
+
+### komi1267-5
+
+Inscription of Filofeya
+
+### komi1267-6
+
+## Literature
+
+
+
