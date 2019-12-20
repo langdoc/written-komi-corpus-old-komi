@@ -1,3 +1,8 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans&display=swap');
+</style>
+
+
 # Old Komi digital edition
 
 These characters can be displayed with [Everson Mono](https://www.evertype.com/emono/) font or [Optima Modoki](https://www.fontspace.com/daredemotypo/optimamodoki) font.
