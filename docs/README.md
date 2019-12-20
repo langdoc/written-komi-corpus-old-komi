@@ -1,8 +1,3 @@
-<style>
-@import url(//db.onlinewebfonts.com/c/51af052c76ece91152078578b9cf21f8?family=Everson+Mono+Latin+6);
-</style>
-
-
 # Old Komi digital edition
 
 These characters can be displayed with [Everson Mono](https://www.evertype.com/emono/), [Optima Modoki](https://www.fontspace.com/daredemotypo/optimamodoki) or [Unicode Upper](https://fontlibrary.org/en/font/gnu-unifont) font.
