@@ -6,7 +6,7 @@ If you are aware of other fonts that can display Old Permic Unicode range, pleas
 
 |Old Komi|Character|
 |---|-----|
-|𐍐  | AN  |
+|<div id='ok'>𐍐<div>  | AN  |
 |𐍑  | BUR|
 |𐍒  | GAI|
 |𐍓  | DOI|
