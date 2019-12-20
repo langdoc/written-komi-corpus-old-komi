@@ -2,13 +2,13 @@
 
 These characters can be displayed with [Everson Mono](https://www.evertype.com/emono/), [Optima Modoki](https://www.fontspace.com/daredemotypo/optimamodoki) or [Unicode Upper](https://fontlibrary.org/en/font/gnu-unifont) font.
 
-|<div id='ok'>Test.</div>
+|<div id="ok">Test.</div>
 
 If you are aware of other fonts that can display Old Permic Unicode range, please share that info with me: nikotapiopartanen@gmail.com.
 
 |Old Komi|Character|
 |---|-----|
-|<div id='ok'>𐍐</div>  | AN  |
+|<div id="ok">𐍐</div>  | AN  |
 |𐍑  | BUR|
 |𐍒  | GAI|
 |𐍓  | DOI|
