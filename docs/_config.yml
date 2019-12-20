@@ -1,2 +1,2 @@
-markdown: krandown
-theme: minima
+markdown: kramdown
+theme: jekyll-theme-minimal
