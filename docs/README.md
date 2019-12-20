@@ -1,6 +1,8 @@
 # Old Komi digital edition
 
-This is a test.
+These characters can be displayed with [Everson Mono](https://www.evertype.com/emono/) font or [Optima Modoki](https://www.fontspace.com/daredemotypo/optimamodoki) font.
+
+If you are aware of other fonts that can display Old Permic Unicode range, please share that info with me: nikotapiopartanen@gmail.com.
 
 |Old Komi|Character|
 |---|-----|
