@@ -1,4 +1,4 @@
-# Old Komi digital edition
+# Digital Edition of Old Komi
 
 This is a digital edition of Old Komi text corpus. It is based into:
 
@@ -18,7 +18,7 @@ Niko Partanen has initiated the work, but everybody is invited to collaborate. E
 
 Please cite this resource as:
 
-> Niko Partanen 2021 Annotated corpus of Old Komi. Zenodo. 
+> Niko Partanen 2021 Digital Edition of Old Komi. Zenodo. 
 
 ## List of texts
 
