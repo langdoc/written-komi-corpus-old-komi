@@ -20,7 +20,7 @@ Please cite this resource as:
 
 > Niko Partanen 2021 Digital Edition of Old Komi. Zenodo. 
 
-## List of texts
+<!-- ## List of texts
 
 ### komi1267-1
 
@@ -41,3 +41,5 @@ Inscription in Icon **Сошествия св. духа**
 ### komi1267-5
 
 Inscription of Filofeya
+-->
+
