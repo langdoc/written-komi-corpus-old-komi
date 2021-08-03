@@ -2,7 +2,7 @@
 
 This is a digital edition of Old Komi text corpus. It is based into:
 
-Lytkin, Vasilij I. and Serebrennikov, Boris A. 1952. *Drevnepermskij jazyk: čtenie tekstov, grammatika, slovar'*. Moskva: Izdat. Akad. Nauk SSSR. 169pp.
+> Lytkin, Vasilij I. 1952. *Drevnepermskij jazyk: čtenie tekstov, grammatika, slovar'*. Moskva: Izdat. Akad. Nauk SSSR.
 
 This repository can be considered a derivative work, since the goal is to provide:
 
@@ -12,7 +12,13 @@ This repository can be considered a derivative work, since the goal is to provid
 - syntactic analysis
 - etymological analysis
 
-Niko Partanen has initiated the work, but everybody is invited to collaborate. The working model is such that scientifically meaningful contributions built automatically towards the authorship. Logically, out of all possible contributions it should be easy to distinguish the major and minor contributors. Major contribution equals authorship, and all contributions are acknowledged.
+Currently the resource consists of plain texts and morphologically analysed third person verb forms. In the future the work will be extended to full lemmatization and dependency analysis. 
+
+Niko Partanen has initiated the work, but everybody is invited to collaborate. Everyone who contributes meaningfully is welcome to be added among the authors. 
+
+Please cite this resource as:
+
+> Niko Partanen 2021 Annotated corpus of Old Komi. Zenodo. 
 
 ## List of texts
 
@@ -35,10 +41,3 @@ Inscription in Icon **Сошествия св. духа**
 ### komi1267-5
 
 Inscription of Filofeya
-
-### komi1267-6
-
-## Literature
-
-
-
