@@ -16,33 +16,33 @@
 
 # sent_id = 2-lytkin
 # text = сэс′ вêлмöсс′ис йэн аврамлу мамбри тупу дорын, пукыс′лу сылу öʒ′öс вôʒ′ын ч′ôмлöн сылöн луншöрö. 
-1	сэс′	сэсь	_	_	_	_	_	_	_
-2	вêлмöсс′ис	вêлмöссис	_	_	_	_	_	_	_
-3	йэн	ен	PROPN	_	_	2	_	_	_
-4	аврамлу	Аврам	PROPN	_	_	2	_	_	_
-5	мамбри	мамбри	_	_	_	6	_	_	_
-6	тупу	тупу	NOUN	_	_	2	_	_	_
-7	дорын	дорын	ADP	_	_	6	_	_	_
-8	пукыс′лу	пукысьлу	_	_	_	_	_	_	_
-9	сылу	сылу	PRON	_	_	_	_	_	_
-10	öʒ′öс	öдзöс	NOUN	_	_	_	_	_	_
-11	вôʒ′ын	вôдзын	ADP	_	_	_	_	_	_
-12	ч′ôмлöн	чôм	NOUN	_	_	_	_	_	_
-13	сылöн	сылöн	PRON	_	_	_	_	_	_
+1	сэс′	сэсь	_	AdvType=Tim	_	_	_	_	_
+2	вêлмöсс′ис	вêлмöссис	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_	_
+3	йэн	ен	PROPN	_	Case=Nom|Number=Sing	2	_	_	_
+4	аврамлу	Аврам	PROPN	_	Animacy=Hum|Case=Dat|Number=Sing	2	_	_	_
+5	мамбри	мамбри	_	Case=Nom|Number=Sing	_	6	_	_	_
+6	тупу	тупу	NOUN	_	Case=Nom|Number=Sing	2	_	_	_
+7	дорын	дорын	ADP	_	Case=Ine|Number=Sing	6	_	_	_
+8	пукыс′лу	пукысьлу	_	Case=Dat|Number=Sing	_	_	_	_	_
+9	сылу	сылу	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+10	öʒ′öс	öдзöс	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+11	вôʒ′ын	вôдзын	ADP	_	Case=Ine|Number=Sing	_	_	_	_
+12	ч′ôмлöн	чôм	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
+13	сылöн	сылöн	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 14	луншöрö	луншöрö	_	_	_	_	_	_	_
 
 # sent_id = 2-lytkin
 # text = виʒ′ис авраам ас с′инйасöн и адʒ′ис ас с′инмöн: вôʒ′ʒ′а вэрöс сулало мадыд сылыс′; адʒ′ымыс′ пышйис вôʒ′ʒ′а нылу ас ч′ôмлöн öйыс дорыс′ и йурбыртис муöʒ′. 
-1	виʒ′ис	видзны	VERB	_	_	_	_	_	_
-2	авраам	Авраам	PROPN	_	_	1	nsubj	_	_
-3	ас	ас	_	_	_	4	nmod	_	_
-4	с′инйасöн	син	NOUN	_	_	1	obl	_	_
+1	виʒ′ис	видзны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
+2	авраам	Авраам	PROPN	_	Animacy=Hum|Case=Nom|Number=Sing	1	nsubj	_	_
+3	ас	ас	_	PronType=Prs|Reflex=Yes	_	4	nmod	_	_
+4	с′инйасöн	син	NOUN	_	Case=Ins|Number=Plur	1	obl	_	_
 5	и	и	_	_	_	_	_	_	_
-6	адʒ′ис	аддзис	_	_	_	_	_	_	_
-7	ас	ас	_	_	_	8	nmod	_	_
-8	с′инмöн	син	NOUN	_	_	6	obl	_	_
+6	адʒ′ис	аддзис	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_	_
+7	ас	ас	_	PronType=Prs|Reflex=Yes	_	8	nmod	_	_
+8	с′инмöн	син	NOUN	_	Case=Ins|Number=Sing	6	obl	_	_
 9	вôʒ′ʒ′а	вôддза	_	_	_	_	_	_	_
-10	вэрöс	верöс	NOUN	_	_	_	nsubj	_	_
+10	вэрöс	верöс	NOUN	_	Case=Nom|Number=Sing	_	nsubj	_	_
 11	сулало	сулавны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 12	мадыд	мадыд	_	_	_	_	_	_	_
 13	сылыс′	сылысь	_	_	_	_	_	_	_
@@ -185,22 +185,22 @@
 8	,	,	PUNCT	_	_	_	_	_	_
 9	кук	кук	_	_	_	7	list	_	_
 10	,	,	PUNCT	_	_	_	_	_	_
-11	кôдöс	кôдöс	_	_	_	12	obj	_	_
-12	дас′тис	дасьтыны	VERB	_	_	3	acl:rel	_	_
+11	кôдöс	кôдöс	_	Case=Acc|Number=Sing|PronType=Rel	_	12	obj	_	_
+12	дас′тис	дасьтыны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	acl:rel	_	_
 13	и	и	_	_	_	_	_	_	_
-14	пугтис	пугтіс	_	_	_	_	_	_	_
+14	пугтис	пугтіс	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_	_
 15	ны	ны	_	_	_	14	obl	_	_
 16	вôʒ′ын	вôдзын	_	_	_	15	case	_	_
 17	;	;	_	_	_	_	_	_	_
 18	и	и	_	_	_	19	cc	_	_
-19	с′ôисныс	сьôисныс	_	_	_	_	_	_	_
+19	с′ôисныс	сьôисныс	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	_	_	_	_	_
 20	;	;	_	_	_	_	_	_	_
-21	ач′ыс	ачыс	_	_	_	_	_	_	_
-22	виʒ′ис	видзис	_	_	_	_	_	_	_
+21	ач′ыс	ачыс	_	Case=Nom|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	_	_	_	_	_
+22	виʒ′ис	видзис	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_	_
 23	ны	ны	_	_	_	22	obl	_	_
 24	вôʒ′ын	вôдзын	_	_	_	23	case	_	_
-25	тупу	тупу	NOUN	_	_	22	obl	_	_
-26	дынын	дынын	ADP	_	_	25	case	_	_
+25	тупу	тупу	NOUN	Case=Nom|Number=Sing	_	22	obl	_	_
+26	дынын	дынын	ADP	_	Case=Ine|Number=Sing	25	case	_	_
 27	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 3-lytkin
